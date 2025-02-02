@@ -2,8 +2,6 @@
 <h3 align="center">Greetings, I am an undergraduate student of Information Technology at PUCIT and agerly embracing the challenges and joys of learning front-end development and MERN stack technologies.This is my digital canvas, where you can explore the code and projects that showcase my dedication to this evolving field.</h3>
 
 
-<img align="right" alt="Coding" with="400" height="300" src="https://th.bing.com/th/id/OIP.abdQjROU88DFVSUMwuBPLAHaHa?pid=ImgDet&rs=1"><p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashahzadali09&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashahzadali09" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Front-end Development**
